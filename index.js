@@ -346,5 +346,5 @@ process.on('uncaughtException', function(err)
 
 
 
-client.login('NzM5NTgxODkwOTQzNjQ3ODU1.XycjTw.c7v1nnPPmmhSWcnyxFdcGDs1YZI'); //end of file
+client.login('Your key here'); //end of file
 
