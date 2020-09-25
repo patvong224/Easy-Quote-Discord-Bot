@@ -21,7 +21,7 @@ client.on('message', message =>{
 
         if(phrase == 1)
         {
-            message.channel.send('Fuck yall');
+            message.channel.send('');
         }
         else
         {
@@ -50,7 +50,7 @@ client.on('message', message =>{
         }
         else if (phrase == 4)
         {
-            message.channel.send('Sauce?');
+            message.channel.send('');
         }
         else if(phrase == 5)
         {
@@ -191,7 +191,7 @@ client.on('message', message =>{
         }
         else if(phrase == 4)
         {
-            message.channel.send('get fucked')
+            message.channel.send('')
         }
         else
         {
@@ -219,7 +219,7 @@ client.on('message', message =>{
         }
         else
         {
-            message.channel.send('Fuck you bitch');
+            message.channel.send('');
         }
         
     }
@@ -261,7 +261,7 @@ client.on('message', message =>{
         }
         else if (phrase == 2)
         {
-            message.channel.send('Im the main bitch');
+            message.channel.send('');
         }
         else if (phrase == 3)
         {
